@@ -170,7 +170,7 @@ traits==4.6.0
 traitsui==5.1.0
 unicodecsv==0.14.1
 wcwidth==0.1.7
-Werkzeug==0.12.1
+Werkzeug==0.15.3
 widgetsnbextension==2.0.0
 win-unicode-console==0.5
 wrapt==1.10.10
