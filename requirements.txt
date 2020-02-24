@@ -84,7 +84,7 @@ MarkupSafe==0.23
 matplotlib==1.5.1
 mayavi==4.5.0
 menuinst==1.4.4
-mistune==0.7.4
+mistune==0.8.1
 mpmath==0.19
 multipledispatch==0.4.9
 nb-anacondacloud==1.2.0
